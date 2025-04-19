@@ -1,5 +1,3 @@
----
-
 # 🔗 Blockchain-Based Decentralized Lottery Smart Contract
 > A decentralized, blockchain-powered lottery contract on Ethereum, enabling fair player entry, random winner selection, and secure prize distribution with complete transparency.
 
